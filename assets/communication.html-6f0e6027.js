@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-150009b1","path":"/docs/guide/communication.html","title":"通信","lang":"en-US","frontmatter":{"title":"通信"},"headers":[],"git":{"createdTime":1693751319000,"updatedTime":1693751319000,"contributors":[{"name":"reco_luan","email":"recoluan@qq.com","commits":1}]},"filePathRelative":"docs/guide/communication.md"}');export{e as data};

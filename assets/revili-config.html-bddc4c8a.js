@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,b as c}from"./app-a2f90cb4.js";const n={},r=c("p",null,"Please look forward to it.",-1),s=[r];function _(l,i){return o(),t("div",null,s)}const f=e(n,[["render",_],["__file","revili-config.html.vue"]]);export{f as default};
